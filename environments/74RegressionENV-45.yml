@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "45"
+mappingDefinitions:
+  DESTINATION:
+    database: BEN_EDW
+    schema: 7.4_REGRESSION_ENV
+  SOURCE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: TPCH_SF001
+name: 7.4 Regression ENV
+type: Environment
