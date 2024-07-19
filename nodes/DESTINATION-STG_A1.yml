@@ -50,20 +50,6 @@ operation:
             transform: ""
       - appliedColumnTests: {}
         columnReference:
-          columnCounter: 60ec9755-4414-4817-a724-698d19107cda
-          stepCounter: 9ceb686c-9744-4710-9e37-72e3e14b39bf
-        config: {}
-        dataType: VARCHAR(1)
-        description: ""
-        name: O_ORDERSTATUS
-        nullable: false
-        sourceColumnReferences:
-          - columnReferences:
-              - columnCounter: 80f5021e-5536-4a49-bf0a-aadbcd1a5e20
-                stepCounter: a9605a49-6906-4cf8-88c9-3fc4de5d9245
-            transform: ""
-      - appliedColumnTests: {}
-        columnReference:
           columnCounter: 52b4b03c-534c-4292-8bf1-42d263e14a74
           stepCounter: 9ceb686c-9744-4710-9e37-72e3e14b39bf
         config: {}
