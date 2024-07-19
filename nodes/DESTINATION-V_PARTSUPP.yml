@@ -83,7 +83,7 @@ operation:
           - columnReferences:
               - columnCounter: 31a13e71-7523-4b19-88b1-af5cd9ee6ed8
                 stepCounter: c36e52d4-9534-4db6-bf36-d30d48160515
-            transform: LOWER("V_PARTSUPP"."PS_COMMENT")
+            transform: LOWER("PARTSUPP"."PS_COMMENT")
     cteString: ""
     enabledColumnTestIDs: []
     sourceMapping:
